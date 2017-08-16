@@ -40,7 +40,7 @@
     "@keyv/postgres": "*",
     "@keyv/redis": "*",
     "@keyv/sqlite": "*",
-    "@keyv/test-suite": "*",
+    "@keyv/test-suite": ">=1.6.0",
     "nyc": "^11.0.3",
     "this": "^1.0.2",
     "timekeeper": "^1.0.0",
